@@ -1,0 +1,15 @@
+{
+  "name": "icomptasdk",
+  "version": "1.1.9",
+  "main": "dist/index.js",  
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@nestjs/axios": "^1.0.1",
+    "axios": "^1.2.2",
+    "@trinix/app-utility": "ceboma/app-utility-sdk",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5"
+  }
+}
